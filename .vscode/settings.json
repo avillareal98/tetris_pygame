@@ -1,0 +1,8 @@
+{
+    "python.analysis.typeCheckingMode": "basic",
+    "python.languageServer": "Jedi",
+    "python.analysis.extraPaths": [
+        "C:/Users/avill/AppData/Local/Programs/Python/Python311",
+        "C:/Users/avill/AppData/Local/Programs/Python/Python311/Lib"
+    ]
+}
